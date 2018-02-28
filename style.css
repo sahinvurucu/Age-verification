@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(255, 255, 255);
+
+}
+.bg{
+   background-image:url("http://api.ning.com/files/Dyivh8oZtEzLfdOU75jGlCD-qnkyO5KmVJgIvLwohGYKOitNbNFPNrZwoS8oEsUodREdQ6jDLWMPx*K5cYiKKVpP4nHLeZGM/TRINERobotoHomepagev2.png");
+   height: 100vh;
+   width: 100vw;
+   background-size: cover;
+   filter: blur(10px);
+   background-color: rgba(202, 200, 200, 0.979);
+
+}
+
+.test { 
+   top:0;
+   position: fixed;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: white;
+   width: 100vw;
+   height: 100vh;
+
+}
+h1{
+   display:block;
+   font-size:180%;
+   color:rgb(255, 255, 255);
+   text-transform: uppercase;
+   text-shadow: 3px 2px rgb(0, 0, 0);
+}
+
+h2 {
+   display: block;
+   font-size: 90%;
+   color: rgba(12, 12, 12, 0.945);
+}
+.button1 {
+
+   font-size: 100%;
+   background-color: rgb(253, 253, 253);
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   border-radius: 8px;
+   padding: 3px 24px;
+}
+
+.input {
+   background-color: rgb(252, 252, 252);
+   box-shadow: 0 14px 16px 0 rgba(0,0,0,0.2), 0 20px 20px 0 rgba(0,0,0,0.19);
+   border-radius: 8px;
+   padding: 4px 24px;
+}
+
